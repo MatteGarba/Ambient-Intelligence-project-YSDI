@@ -1,3 +1,15 @@
+# Ambient Intelligence System project
+
+Details can be found:
+ - on the project website: https://ami-2018.github.io/YSDI/
+ - on YouTube: https://www.youtube.com/watch?v=eV60kDTFtd4
+ - on the original repository: https://github.com/AmI-2018/YSDI-code
+ 
+ (The current repository is only a fork of the original one for a better visualization on my GitHub account, 
+ but still it is identical to the original and contains the same files, exception made for this README containing this message)
+
+
+
 # How to navigate this repository
 
 There are 3 main folders:
